@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { ProductConsumer } from "../context";
 import { Link } from "react-router-dom";
 import { ButtonContainer } from "./Button";
-import { storeProducts } from "../data";
+//import { storeProducts } from "../data";
 
 export default class Details extends Component {
   render() {
